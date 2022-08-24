@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 70%;
+    margin: 0 auto;
+}
+html {
+    font-family: sans-serif;
+}
+a  {
+    color: black;
+    text-decoration: none;
+
+}
+ul ,li {
+    list-style-type: none;
+}
+
+.it {
+    color: coral !important; 
+}

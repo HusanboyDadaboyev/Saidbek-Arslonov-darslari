@@ -1,0 +1,48 @@
+.Ortalat{
+width: 80%;
+margin: auto;
+border: 1px solid rgb(85, 80, 80);
+border-radius: 10px;
+background-color:gold;
+}
+.OTAL{
+text-align: center;
+background-color: blueviolet;
+display: inline-block;
+border-radius:10px 10px 0 0;
+
+
+}
+.OT{
+    text-align: center;
+    background-color: rgb(158, 126, 188);
+    display: inline-block;
+    border-radius: 10px 10px 0 0;
+border-bottom: none;
+
+    }
+    .borderh {
+        border: 20px solid blueviolet !important;
+      }
+      .borderd{
+        border-top: 4px solid blueviolet !important;
+       
+      }
+   .hu {
+  width: 90%;
+    height: 90%;
+    margin: 1px 0;
+    margin-right: 20px;
+   }
+   .ha {
+    width: 60%;
+      height: 90%;
+      margin: 1px 0;
+      margin-right: 20px;
+     }
+     .ilon{
+    width: 100%;
+     }
+     .nu{
+      background-color: bisque;
+     }

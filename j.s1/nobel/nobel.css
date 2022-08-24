@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.comlumin{
+ 
+    width: 25%;
+ float: left;
+text-align: center;
+border: 2px solid red;
+padding: 5px ;}
+@media (max-width:767px){
+  .header{
+    background-image: url(666.jpg);
+   background-repeat: no-repeat;
+    background-size: cover;
+  }
+    .comlumin{
+        width: 100%;
+     
+    }
+}
+@media (min-width:768px) and (max-width:1023px){
+   .header{
+    background-image: url(444.jpg);
+    background-size: cover;
+   }
+    .comlumin{
+        width: 50%;
+    }
+}
+@media (min-width:1024px){
+   
+   .header{
+    background-image: url(111.jpg);
+    background-size: cover;
+   }
+    .comlumin{
+        width: 25%;
+    }
+}
