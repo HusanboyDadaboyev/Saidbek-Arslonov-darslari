@@ -1,0 +1,220 @@
+body ,h1 ,h2 ,h3, ul, li, p {
+    margin: 0;
+    padding: 0;
+}
+#header {
+background-color: #35424a;
+border-bottom: 4px solid coral;
+}
+.container {
+    width: 70%;
+    margin:0 auto ;
+}
+#header h1 {
+    color: white;
+    font-family: sans-serif;
+    padding: 15px 0;
+    display: inline-block;
+}
+.logo {
+    color: coral;
+    padding-right: 7px;
+}
+.navbar {
+    
+    list-style-type: none;
+    float: right;
+    
+    font-size: 20px;
+
+}
+.navbar li {
+    display: inline;
+
+
+    
+}
+.navbar li a {
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+    padding: 20px 25px;
+    display: inline-block;
+
+}
+.navbar a:hover{
+    color: brown;
+}
+#banner {
+    background-image: url(11111.jpg);
+    width: 100%;
+    height: 400px;
+    background-size:1250px 400px;
+
+}
+.hilol {
+ text-align: center;
+    color: white;
+    font-family: sans-serif;
+    
+}
+.hilol h1 {
+    font-size: 56px;
+    margin-bottom: 25px;
+    padding-top: 150px;
+    
+}
+#newsletter {
+padding: 15px ;
+background-color: #35424a;
+
+}
+#newsletter .left{
+ color: white;
+ font-family: sans-serif;
+ font-size: 20px;   
+ display: inline-block;
+}
+.let{
+    background-color: orangered;
+    color: white; 
+    margin-left: 10;
+float: right;
+padding:6px 7px;
+margin-bottom: 15px;
+margin-left: 3px;
+border-radius: 15px;
+border: none;
+
+}
+.right {
+    float: right;
+
+font-size: 20px;  
+}
+#newsletter input {
+    padding: 4px;
+
+}
+.let:hover{
+   cursor: pointer;
+   background-color: white;
+   color:orangered; 
+   
+}
+.hikmatillo {
+  
+   margin-top:10px ;
+   
+}
+
+.abdulaziz {
+    width: 30%;
+    float: left;
+   padding: 10px;
+     
+}
+.hikmatillo img{
+    width:120px;
+    height: 160px;
+
+}
+.halilo{
+    background-color:brown;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 12px;
+} 
+.clr{
+    clear: both;
+  
+}
+.hikmatillo .qosimjon {
+    float: right;
+    width:37%;
+background-color: #35424a;
+color: white;
+margin-top:8px ;
+padding: 8px;
+}
+.hikmatillo .qodirjon {
+    float: left;
+    width: 59%;
+  
+}  
+.hikmatillo .qobiljon {
+    float: left;
+    width: 55%;
+    background-color: #35424a;
+    color: white;
+    padding: 8px;
+    margin: 12px 0;
+    margin-right: 20px;
+}
+.hikmatillo .qosimjon h1{
+    padding-bottom: 7px;
+}
+.qitol {
+    width: 80%;
+    margin:0 auto;
+}
+.hikmatillo .qodirjon h1 {
+    padding: 7px 0;
+}
+
+.hikmatillo .jasur {
+    float: left;
+    width: 65%;
+  
+    
+}
+.hikmatillo .ilhom {
+    float: right;
+    width: 30%;
+background-color: black;
+color: white;
+padding-left: 10px;
+
+
+}
+.ilhom label {
+    display: block;
+    margin: 1px 0;
+    padding: 0;
+   
+}
+.hikmatillo .abduvohid {
+    background-color:blanchedalmond;
+    border: 1px solid black;
+    padding: 7px;
+    margin: 3px 0;
+    
+}
+.hikmatillo .abduvohid h2{
+    padding: 10px 0;
+}
+.hikmatillo .abduvohid p {
+    font-size: 16px;
+}
+.hikmatillo .umidjon {
+    margin:10px 0;
+}
+.hikmatillo .jasur {
+    margin: 15px 0;
+    margin-bottom: 20px;
+}
+.jasur h1{
+    margin-bottom: 15px;
+}
+.ilhom input {
+    width:90%;
+    padding: 5px 0;
+    
+}
+textarea {
+    width: 90%;
+}
+.it {
+    color: coral !important; 
+}
